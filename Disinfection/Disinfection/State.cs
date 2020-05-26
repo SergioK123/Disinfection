@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
 using System.Drawing;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,11 +10,15 @@ using System.Windows.Forms;
 
 namespace Disinfection
 {
-    public partial class Form1 : Form
+    public abstract partial class State : UserControl
     {
-        public Form1()
+        public State()
         {
             InitializeComponent();
         }
+
+        public abstract void WasMouseClick(int x, int y);
+
+        public abstract void OnTimerTick(object sender, EventArgs e);
     }
 }
