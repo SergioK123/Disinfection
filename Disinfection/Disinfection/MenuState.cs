@@ -20,12 +20,12 @@ namespace Disinfection
             //pictureBoxExit.ImageLocation = "";//add path 
         }
 
-        public new void OnTimerTick(object sender, EventArgs e)
+        public override void OnTimerTick(object sender, EventArgs e)
         {
 
         }
 
-        public new void WasMouseClick(int x, int y)
+        public override void WasMouseClick(int x, int y)
         {
 
         }
