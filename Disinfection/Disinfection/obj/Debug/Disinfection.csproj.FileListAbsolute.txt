@@ -1,0 +1,17 @@
+D:\GitHubProjects\Dezinfection\Disinfection\Disinfection\bin\Debug\Disinfection.exe.config
+D:\GitHubProjects\Dezinfection\Disinfection\Disinfection\bin\Debug\Disinfection.exe
+D:\GitHubProjects\Dezinfection\Disinfection\Disinfection\bin\Debug\Disinfection.pdb
+D:\GitHubProjects\Dezinfection\Disinfection\Disinfection\obj\Debug\Disinfection.MainForm.resources
+D:\GitHubProjects\Dezinfection\Disinfection\Disinfection\obj\Debug\Disinfection.Properties.Resources.resources
+D:\GitHubProjects\Dezinfection\Disinfection\Disinfection\obj\Debug\Disinfection.csproj.GenerateResource.cache
+D:\GitHubProjects\Dezinfection\Disinfection\Disinfection\obj\Debug\Disinfection.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\Dezinfection\Disinfection\Disinfection\obj\Debug\Disinfection.exe
+D:\GitHubProjects\Dezinfection\Disinfection\Disinfection\obj\Debug\Disinfection.pdb
+C:\Users\Сергей\Documents\GitHub\Disinfection\Disinfection\Disinfection\obj\Debug\Disinfection.csprojAssemblyReference.cache
+C:\Users\Сергей\Documents\GitHub\Disinfection\Disinfection\Disinfection\obj\Debug\Disinfection.MainForm.resources
+C:\Users\Сергей\Documents\GitHub\Disinfection\Disinfection\Disinfection\obj\Debug\Disinfection.MenuState.resources
+C:\Users\Сергей\Documents\GitHub\Disinfection\Disinfection\Disinfection\obj\Debug\Disinfection.Properties.Resources.resources
+C:\Users\Сергей\Documents\GitHub\Disinfection\Disinfection\Disinfection\obj\Debug\Disinfection.csproj.GenerateResource.cache
+C:\Users\Сергей\Documents\GitHub\Disinfection\Disinfection\Disinfection\obj\Debug\Disinfection.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Documents\GitHub\Disinfection\Disinfection\Disinfection\obj\Debug\Disinfection.exe
+C:\Users\Сергей\Documents\GitHub\Disinfection\Disinfection\Disinfection\obj\Debug\Disinfection.pdb
